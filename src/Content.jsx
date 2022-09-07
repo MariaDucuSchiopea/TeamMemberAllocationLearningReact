@@ -1,8 +1,8 @@
 const Content = () => {
 
-  return(
+  return (
     <content>
-    <h1>Content</h1>
+      <h1>Content</h1>
     </content>
   )
 }
